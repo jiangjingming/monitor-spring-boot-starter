@@ -1,4 +1,4 @@
-package com.jjm;
+package cn.jjm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

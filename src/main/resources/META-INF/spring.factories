@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.jjm.config.ElasticSearchConfig,\
+cn.jjm.service.AccessMonitorService,\
+cn.jjm.aspect.AccessMonitorAspect
