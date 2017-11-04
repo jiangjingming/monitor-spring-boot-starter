@@ -3,10 +3,8 @@ package cn.jjm.service;
 import cn.jjm.annotation.EnableMonitorConfiguration;
 import cn.jjm.dao.AccessMonitor;
 import cn.jjm.dao.AccessMonitorRepository;
-import cn.jjm.util.SpringUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
-import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
